@@ -30,7 +30,7 @@ This project demonstrates a clean **Layered Architecture** and industry standard
 
 ## 🛠️ Technology Stack
 
-* **Core:** Java 17, Spring Boot 4.x
+* **Core:** Java 21, Spring Boot 4.x
 * **Database:** PostgreSQL
 * **ORM:** Spring Data JPA (Hibernate)
 * **Security:** Spring Security, JWT
