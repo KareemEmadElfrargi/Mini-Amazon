@@ -6,5 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface CartItemRepository extends JpaRepository<CartItem, Long> {
+    // Delete all items associated with a specific cart ID
     void deleteByCartId(Long cartId);
 }
