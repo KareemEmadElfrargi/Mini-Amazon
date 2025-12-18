@@ -104,6 +104,7 @@ The project follows a **Layered Architecture** to ensure separation of concerns:
 ### 🧾 Orders
 * `POST /api/orders/checkout` - Convert Cart to Order and deduct stock.
 
+NOTE : you can open all endpoint from 'Bruno' Desktop app , download from here --> https://drive.google.com/file/d/1c6Ujpc0R_u1KqjkHVZKHpUZGPL9nIUzT/view?usp=sharing
 ---
 
 ## 🔮 Future Improvements
